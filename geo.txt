@@ -1,3 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# T-Mobile US Geofeed,lastupdated (rfc3339): 2023-01-16T10:21:04Z
+# T-Mobile US Geofeed,lastupdated (rfc3339): 2023-01-24T09:09:16.404Z
+
 2a12:bec0:110::/44,ID,,,
+45.155.164.0/24,ID,,,
