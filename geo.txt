@@ -1,4 +1,4 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# PT. Premium Fast Network,lastupdated (rfc3339): 2023-01-24T09:09:16.404Z
+# PT. Premium Fast Network,lastupdated (rfc3339): 2023-08-03T10:51:54.173Z
 
 45.155.164.0/24,DE,DE-SN,Falkenstein,
